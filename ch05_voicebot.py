@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 from datetime import datetime
 
-API_KEY="sk-MDQtwohXVAq9Xwr6TBtPT3BlbkFJH1CJNLAWMzdPAqVY8gG"
+API_KEY=""
 client=openai.OpenAI(api_key=API_KEY)
 
 #기능 구현 함수
